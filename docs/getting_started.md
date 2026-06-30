@@ -6,7 +6,7 @@ To get started with JetBot, first pick your vehicle (hardware) you want to make.
 
 ![](images/nvjetbot_vs_3rdparty.png)
 
-For details of NVIDIA-designed open-source JetBot hardware, check [Bill of Materials](bill_of_materials.md) page and [Hardware Setup](hardware_setup.md) page.
+For details of the original NVIDIA JetBot reference design and NVIDIA-designed open-source JetBot hardware, check [Bill of Materials](bill_of_materials.md) page and [Hardware Setup](hardware_setup.md) page.
 
 To find kits available from third parties, check [Third Party Kits](third_party_kits.md) page.
 
