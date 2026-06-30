@@ -1,6 +1,8 @@
 # Third Party Kits
 
-In addition to the open-source DIY version, several third party JetBot kits using Jetson Nano have emerged.  This page details the kits that we're aware of
+In addition to the open-source DIY version, several third party JetBot kits using Jetson Nano have emerged.  This page details the kits that we're aware of.
+
+JetBot is an open-source robot platform with a broader community and vendor ecosystem.  The original NVIDIA JetBot reference design is the NVIDIA-designed open-source hardware design that many compatible kits build on or adapt.
 
 ???+ note 
     Please note, we do not officially maintain these kits in this GitHub project.  Please refer to the vendor's documentation. Please refer to the vendor URL for cost and availability.  Some kits may have additional vendors that we aren't aware of or haven't listed yet.  If you think these would be helpful for other developers to know, please [let us know](../../issues).
@@ -90,4 +92,3 @@ In addition to the open-source DIY version, several third party JetBot kits usin
 | Kit      | URL |
 |----------|-----|
 | GPUS JetBot Kit (with Jetson Nano Dev Kit) | [Taobao](https://item.taobao.com/item.htm?id=602196310625) |
-

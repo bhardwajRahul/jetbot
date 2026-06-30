@@ -9,8 +9,9 @@
     <a href="getting_started.html" class="md-button md-button--primary">Get Started</a>
 </div>
 
-JetBot is an open-source robot based on NVIDIA Jetson Nano.  You'll like
-it because...
+JetBot is an open-source robot platform for AI learning and experimentation.
+The original NVIDIA JetBot reference design is an NVIDIA-designed open-source
+robot based on NVIDIA Jetson Nano.  You'll like it because...
 
 
 ## It's Affordable
@@ -23,6 +24,8 @@ JetBot costs less than $250 in parts, <i>including</i> Jetson Nano. The DIY kit 
 which you must purchase and a 3D printed chassis that you can print, or order.  If you're looking to get
 up and running as quick as possible, there are also many <a href="third_party_kits.html">third party kits</a> available
 that come pre-bundled.
+These kits are part of the broader JetBot ecosystem and may include compatible
+vendor variants such as SparkFun JetBot and Waveshare JetBot.
 
 
 </div>
